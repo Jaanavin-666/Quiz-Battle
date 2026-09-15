@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Battle",
+  "description": "A colorful single-player General Knowledge Quiz adventure game with level progression, power-ups, achievements, and multi-language support including Tamil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
