@@ -90,7 +90,8 @@ Quiz Battle uses a colorful adventure-game design with:
 
 ## 👨‍💻 Author
 
-**Jaanavin.n**
+**Jaanavin.N**
+game link https://quiz-battle-7.ai.studio/
 
 Engineering Student | Beginner Developer
 
