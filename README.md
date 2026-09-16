@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./quiz-battle-banner.png" alt="Quiz Battle Game Banner" width="100%">
+</p>
 # 🎯 Quiz Battle
 
 A colorful **single-player General Knowledge Quiz Game** with an adventure-style level map.
